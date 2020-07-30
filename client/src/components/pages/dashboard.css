@@ -1,0 +1,21 @@
+.header-row{
+    border-bottom: 1px solid #CBCBCB;
+    margin-bottom: 2em;
+    margin-top: 2em;
+}
+.settings{
+    color: #707070;
+    font-weight: 600;
+    padding-top: 15px;
+    margin-bottom: .5rem !important;
+}
+.settings a{
+    color: #707070;
+}
+.settings a:hover{
+    color: #000;
+}
+    .dashboard-component h4{
+    color: #707070;
+    font-size: 1.1em;
+}

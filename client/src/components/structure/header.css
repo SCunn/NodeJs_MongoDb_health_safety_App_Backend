@@ -1,0 +1,18 @@
+.main-header{
+    margin-bottom: 40px;
+    padding: 20px;
+    border-bottom: 1px solid #707070;
+    box-shadow: 1px 11px 11px 3px rgba(104,104,104,0.7);
+    background-color: white;
+}
+.main-header ul .nav-item a {
+    color: #707070;
+    font-weight: 600;
+    padding-right: 3em;
+}
+.main-header ul .nav-item a:hover, .main-header ul .nav-item a.active{
+    color: #1F1F1F;
+    font-weight: 600;
+    text-decoration: none;
+    transition: 0.3s ease-in-out all;
+}
