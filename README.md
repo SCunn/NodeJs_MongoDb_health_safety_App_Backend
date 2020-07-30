@@ -14,7 +14,7 @@ npm run client-install
 <h2>Run the client & server with concurrently</h2>
 npm run dev
 
-<h2>Run the Express server only</h2>
+<h2>Run the Express server only  http://localhost:5000</h2>
 npm run server<br>
 or<br>
 nodemon
