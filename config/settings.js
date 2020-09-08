@@ -1,4 +1,4 @@
 // add this file to .gitignore
 module.exports = {
-    'secret':'rcwsecrue'
+    'secret':'super_secret'
 };
