@@ -27,7 +27,7 @@
     "friends-of-friends": "^3.1.1",
     "is-empty": "^1.2.0",
     "jsonwebtoken": "^8.5.1",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "mongoose": "^5.8.10",
     "mongoose-friends": "^0.2.5",
     "morgan": "^1.9.1",
